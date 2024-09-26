@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Luke Derbyshire!
 
-<!--
-**LMD17/LMD17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Qualifications
+- BSc IT Software Engineering graduated 2023
+- BSc IT HONOURS Software Engineering graduated 2024
 
-Here are some ideas to get you started:
+Here are some of the projects that I have worked on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ROAR Inspired E-Commerce Website  (https://github.com/LMD17/roar-inspired_ecommerce_localhost.git)
+- Heart Disease Prediciton Model Applications  (https://github.com/LMD17/heart_disease_prediciton_model_app.git)
+- General Beginner Coding Projects done during my degree  (https://github.com/LMD17/General_Beginner_Coding_Projects.git)
+- 
+
+
+Thank you for taking the time to see my projects. I hope that you found them informative.
