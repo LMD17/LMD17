@@ -6,7 +6,7 @@
 
 Here are some of the projects that I have worked on:
 
-- Youth Connect Android Application using Kotlin  ()
+- Youth Connect Android Application using Kotlin  (https://github.com/LMD17/YouthConnect.git)
 - UNDERCOVER Game - 2D Retro, Run and Gun, Platformer Game  (https://github.com/LMD17/UNDERCOVER-2D-Retro-Game.git)
 - Library Management System (LMS) React Website  (https://github.com/LMD17/LMS-System.git)
 - ROAR Inspired E-Commerce Website  (https://github.com/LMD17/roar-inspired_ecommerce_localhost.git)
