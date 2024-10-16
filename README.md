@@ -1,8 +1,8 @@
 # Hi, I'm Luke Derbyshire!
 
 ### Qualifications
-- BSc IT Software Engineering graduated 2023
-- BSc IT HONOURS Software Engineering graduated 2024
+- BSc IT Software Engineering completed 2023
+- BSc IT HONOURS Software Engineering completing in 2024
 
 Here are some of the projects that I have worked on:
 
